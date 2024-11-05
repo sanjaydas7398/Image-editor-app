@@ -1,0 +1,8 @@
+#canvas {
+    border: 1px solid gray;
+    z-index: 2;
+}
+
+.lower-canvas{
+     position: initial !important;
+}
